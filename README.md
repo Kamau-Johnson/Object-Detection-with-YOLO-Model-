@@ -1,7 +1,6 @@
 # Object Detection for Images and Videos
 <p float="center">
-    <img src="YOLO12.png" width="35%" /> 
-    <img src="YOLO1.png" width="50%" /> 
+    <img src="YOLO1.png" width="35%" /> 
     <img src="YOLO3.png" width="350%" /> 
 </p
 
